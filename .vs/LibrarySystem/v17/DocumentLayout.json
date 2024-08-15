@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\returnbooksrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:returnbooksrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|c:\\users\\administrator\\downloads\\librarysystem\\issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\viewstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:viewstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\viewbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:viewbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\viewstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:viewstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:addbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\820205bd4f6363b3e121531a9ea458bc48c855653081fc8d1b0e4eb59f6c3686\\Issuebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\issuebooksrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:issuebooksrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\viewbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:viewbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\issuebooksrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:issuebooksrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\returnbooksrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:returnbooksrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|C:\\Users\\Administrator\\Downloads\\LibrarySystem\\returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DBAD4B2-DC4B-46E3-B0A9-05EEF468FFA6}|LibrarySystem.csproj|solutionrelative:returnbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 254,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Viewstudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Viewstudent.cs",
+              "RelativeDocumentMoniker": "Viewstudent.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Viewstudent.cs [Design]",
+              "RelativeToolTip": "Viewstudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:01:07.058Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Addstudent.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Addstudent.cs",
+              "RelativeDocumentMoniker": "Addstudent.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Addstudent.cs",
+              "RelativeToolTip": "Addstudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T13:22:43.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Viewstudent.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Viewstudent.cs",
+              "RelativeDocumentMoniker": "Viewstudent.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Viewstudent.cs",
+              "RelativeToolTip": "Viewstudent.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAmwPEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:08:14.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Issuebooks.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Issuebooks.cs",
+              "RelativeDocumentMoniker": "Issuebooks.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Issuebooks.cs",
+              "RelativeToolTip": "Issuebooks.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:16:55.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReturnbooksRP.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\ReturnbooksRP.cs",
+              "RelativeDocumentMoniker": "ReturnbooksRP.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\ReturnbooksRP.cs",
+              "RelativeToolTip": "ReturnbooksRP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:07:44.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Viewbooks.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Viewbooks.cs",
+              "RelativeDocumentMoniker": "Viewbooks.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Viewbooks.cs",
+              "RelativeToolTip": "Viewbooks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T09:04:22.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Addbooks.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Addbooks.cs",
+              "RelativeDocumentMoniker": "Addbooks.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Addbooks.cs",
+              "RelativeToolTip": "Addbooks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T02:02:21.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowEgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T08:55:19.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:14:03.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Issuebooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Issuebooks.cs",
+              "RelativeDocumentMoniker": "Issuebooks.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Issuebooks.cs [Design]",
+              "RelativeToolTip": "Issuebooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:02:18.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Addbooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Addbooks.cs",
+              "RelativeDocumentMoniker": "Addbooks.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Addbooks.cs [Design]",
+              "RelativeToolTip": "Addbooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T12:58:09.879Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Issuebooks.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\820205bd4f6363b3e121531a9ea458bc48c855653081fc8d1b0e4eb59f6c3686\\Issuebooks.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\820205bd4f6363b3e121531a9ea458bc48c855653081fc8d1b0e4eb59f6c3686\\Issuebooks.cs",
+              "ToolTip": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\820205bd4f6363b3e121531a9ea458bc48c855653081fc8d1b0e4eb59f6c3686\\Issuebooks.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\820205bd4f6363b3e121531a9ea458bc48c855653081fc8d1b0e4eb59f6c3686\\Issuebooks.cs [Read Only]",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwD4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:31:44.508Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IssuebooksRP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\IssuebooksRP.cs",
+              "RelativeDocumentMoniker": "IssuebooksRP.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\IssuebooksRP.cs [Design]",
+              "RelativeToolTip": "IssuebooksRP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:02:16.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Viewbooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Viewbooks.cs",
+              "RelativeDocumentMoniker": "Viewbooks.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Viewbooks.cs [Design]",
+              "RelativeToolTip": "Viewbooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:58:38.995Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Returnbooks.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Returnbooks.cs",
+              "RelativeDocumentMoniker": "Returnbooks.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Returnbooks.cs",
+              "RelativeToolTip": "Returnbooks.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:07:29.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Addstudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Addstudent.cs",
+              "RelativeDocumentMoniker": "Addstudent.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Addstudent.cs [Design]",
+              "RelativeToolTip": "Addstudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:59:58.256Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IssuebooksRP.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\IssuebooksRP.cs",
+              "RelativeDocumentMoniker": "IssuebooksRP.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\IssuebooksRP.cs",
+              "RelativeToolTip": "IssuebooksRP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:08:01.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T01:56:51.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:56:17.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:55:13.142Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReturnbooksRP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\ReturnbooksRP.cs",
+              "RelativeDocumentMoniker": "ReturnbooksRP.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\ReturnbooksRP.cs [Design]",
+              "RelativeToolTip": "ReturnbooksRP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:05:49.135Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Returnbooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Returnbooks.cs",
+              "RelativeDocumentMoniker": "Returnbooks.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\LibrarySystem\\Returnbooks.cs [Design]",
+              "RelativeToolTip": "Returnbooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:03:26.755Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
